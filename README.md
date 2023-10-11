@@ -1,4 +1,4 @@
-# Busqueda machine on [hackthebox)(https://app.hackthebox.com/)
+# Busqueda machine on [hackthebox](https://app.hackthebox.com/)
 
 Written by: Mustafa Musallati.
 
@@ -155,7 +155,7 @@ Good hunting!! :)
 ---
 
 Written by: Mustafa Musallati.
-[LinkedIn)(https://www.linkedin.com/in/mustafa-musallati-95a159260/)
-[instagram)(https://www.instagram.com/accaard/)
+[LinkedIn](https://www.linkedin.com/in/mustafa-musallati-95a159260/)
+[instagram](https://www.instagram.com/accaard/)
 
 
