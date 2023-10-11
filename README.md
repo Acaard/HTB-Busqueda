@@ -34,7 +34,7 @@ The website uses an open source package called "searchor", with 2.4.0 version, a
 
 ### Exploitation:
 
-The exploit on GitHub:[Link.)(https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection)
+The exploit on GitHub:[Link.](https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection)
 
 Highly recommended to check it.
 
